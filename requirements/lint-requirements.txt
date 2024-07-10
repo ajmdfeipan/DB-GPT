@@ -12,3 +12,4 @@ pyupgrade==3.1.0
 types-requests
 types-beautifulsoup4
 types-Markdown
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
